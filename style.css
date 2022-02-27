@@ -1,0 +1,39 @@
+body
+{
+background-color: gray	;
+font-family: Verdana;
+font-size: 24px;
+color: orange;
+}
+#container
+{
+	padding-top: 50px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom:50px;
+	background-color: #5a0000;
+	margin: auto;
+    width: 1000px;
+}
+#topbar
+{
+	width: 60%;
+	height: 30px;
+	background-color: yellow;
+	border: 3px solid white;
+	margin-bottom: 40px;
+	clear: both;
+	font-size: 20px;
+	color: red;
+}
+.nn
+{
+	width: 300px;
+	height: 30px;
+	background-color:  blue;
+	border: 3px solid cyan;
+	margin-bottom: 40px;
+	clear: both;
+	font-size: 20px;
+	color: orange;
+}
